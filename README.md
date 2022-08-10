@@ -1,2 +1,9 @@
 Привет! Я - Георгий, fullstack разработчик!
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+👀 Интересуюсь новыми технологиями, а также без ума от спорта!
+👾 PERN stack
+📫 Напиши мне: gkapkaev.job@gmail.com
+<hr>
+Контакты:
+
+
+
